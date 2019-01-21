@@ -3,3 +3,8 @@ Hello this is text File.
 I added this line. After second commit.
 
 It is forth addition.
+
+Before I push forth addition. I adding new things to file.
+It is version five.
+
+Eddition 6.
